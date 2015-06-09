@@ -1,2 +1,2 @@
-###This is the master branche
+###This is the master branch
 Testing capistrano branches
